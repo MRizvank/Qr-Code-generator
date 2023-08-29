@@ -21,8 +21,9 @@ This is a simple web application built with Node.js and Express.js that allows u
 
 2. Clone this repository:
 
-   ```bash
+   ```
    git clone https://github.com/MRizvank/QR-Code-generator.git
+   ```
    
 1.Navigate to the project directory:
 
@@ -36,7 +37,7 @@ npm install
 ## Usage
 1.Start the application:
 
-```bash
+```
 npm start
 ```
 2. Open your web browser and go to http://localhost:3000 to access the QR Code Generator.
